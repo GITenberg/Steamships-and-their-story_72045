@@ -1,5 +1,8 @@
 _repo: Steamships-and-their-story_72045
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72045-h/images/cover.jpg
 creator:
   author:
     agent_name: Chatterton, E. Keble (Edward Keble)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7457
     wikipedia: https://en.wikipedia.org/wiki/Edward_Keble_Chatterton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72045#Steamships-and-their-story
 gutenberg_issued: '2023-11-05'
 identifiers:
   gutenberg: '72045'
